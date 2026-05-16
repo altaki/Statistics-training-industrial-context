@@ -1,4 +1,3 @@
-# Statistics-training-industrial-context
 # Applied Statistics Training (Industrial Context)
 
 This repository contains materials from a 2-day training on applied statistics and data-driven decision-making.
